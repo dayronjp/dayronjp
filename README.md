@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/4410e2d4-fe90-4cd2-89ed-727b2754d581)
+![github-header-image (1)](https://github.com/user-attachments/assets/fa188859-5f64-4907-8673-2111fbfc87dc)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E000C6&width=435&lines=%F0%9F%A4%96I'm+interested+in+systems+analysis;I'm+currently+learning%3A+programming;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Systems+Analysis+and+Development;%E2%9C%89%EF%B8%8F+Contact+me%3A+dayronjp17%40gmail.com)](https://git.io/typing-svg)
 
@@ -13,4 +13,5 @@
 <br>
 <br>
 
-![github-header-image](https://github.com/user-attachments/assets/1029c6a0-988d-4e55-b9f2-8e0ae96a4c55)
+![github-header-image (1)](https://github.com/user-attachments/assets/4e7c8bb2-7569-4f09-955c-f4a9212457be)
+
