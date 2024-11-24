@@ -57,15 +57,15 @@
 <img 
     align ="left"
     alt = "GitHub Stats"
-    height = "200px"
+    height = "140px"
     style = "padding-right : 10px"
-    src="https://github-readme-stats.vercel.app/api?username=dayronjp&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=dayronjp&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true"
     />         
 
 <img 
     align ="left"
     alt = "GitHub Stats"
-    height = "200px"
+    height = "140px"
     style = "padding-right : 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayronjp&theme=tokyonight&custom_title= Top Languages&layout=compact&langs_count=7"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayronjp&theme=tokyonight&custom_title=Top%20Languages&layout=compact&langs_count=7"
     />           
