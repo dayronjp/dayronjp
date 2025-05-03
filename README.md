@@ -1,6 +1,8 @@
  # 🏮 Hello, I'm Dayron Anjos.
 
- ### I am Dayron, a 17-year-old native of São Paulo, Brazil, with a fervent interest in technology. As a high school student concurrently pursuing a technical education in Systems Analysis and Development, I am deeply immersed in the technological realm. Driven by a conviction that technology is a catalyst for global change, I am committed to expanding my understanding of this dynamic field.
+ ### I'm a Systems Analysis and Development student and an entry-level IT Support Analyst, passionate about networks and cybersecurity. Currently pursuing Fortinet's FCF certifications to deepen my understanding of secure infrastructure and enterprise-grade solutions.
+
+I have hands-on experience with Linux environments and enjoy building small-scale projects that bridge theory and practice. I'm certified in Data Modeling by Alura and always looking to grow both technically and personally.
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/dayron-anjos-566b02323/)
