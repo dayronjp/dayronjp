@@ -1,9 +1,6 @@
  # 🏮 Hello, I'm Dayron Anjos.
 
- ### I'm a Systems Analysis and Development student and an entry-level IT Support Analyst, passionate about networks and cybersecurity. Currently pursuing Fortinet's FCF certifications to deepen my understanding of secure infrastructure and enterprise-grade solutions.
-
-I have hands-on experience with Linux environments and enjoy building small-scale projects that bridge theory and practice. I'm certified in Data Modeling by Alura and always looking to grow both technically and personally.
-
+ ### I'm a Systems Analysis and Development student and an entry-level IT Support Analyst, passionate about networks and cybersecurity. Currently pursuing Fortinet's certifications to deepen my understanding of secure infrastructure and enterprise-grade solutions.
 
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/dayron-anjos-566b02323/)
 ---
