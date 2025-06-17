@@ -1,71 +1,87 @@
- # 🏮 Hello, I'm Dayron Anjos.
+# 🏮 Hello, I'm Dayron Anjos
 
- ### I'm a Systems Analysis and Development student and an entry-level IT Support Analyst, passionate about networks and cybersecurity. Currently pursuing Fortinet's certifications to deepen my understanding of secure infrastructure and enterprise-grade solutions.
+### 💻 Systems Analysis and Development student | IT Support Analyst | Future Network & Cybersecurity Engineer
+
+I'm passionate about building reliable systems, automating infrastructure, and securing networks. Currently expanding my skillset through Fortinet’s certification track while working on hands-on projects that bridge theory and practice.
 
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/dayron-anjos-566b02323/)
 ---
 
-### 📚 Skills and Technologies
-
+### ⚙️ Tech Stack
 
 <img 
-    align ="left"
-    alt = "Python"
-    title = "Python"
-    width = "30px"
-    style = "padding-right : 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<img
+<img 
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img 
+  align="left"
+  alt="HTML5"
+  title="HTML5"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img 
+  align="left"
+  alt="CSS3"
+  title="CSS3"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img 
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+<br />
+<br />
+<br />
+
+---
+
+### 📊 GitHub Insights
+
+<a href="https://github.com/dayronjp">
+  <img
     align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    height="150px"
+    src="https://github-readme-stats.vercel.app/api?username=dayronjp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"
+  />
+</a>
 
+<a href="https://github.com/dayronjp">
+  <img
+    align="left"
+    height="150px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayronjp&layout=compact&theme=tokyonight&langs_count=7&hide_title=true"
+  />
+</a>
 
-<img 
-    align ="left"
-    alt = "HTML"
-    title = "HTML"
-    width = "30px"
-    style = "padding-right : 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<br clear="both" />
 
-<img 
-    align ="left"
-    alt = "CSS"
-    title = "CSS"
-    width = "30px"
-    style = "padding-right : 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+---
 
-<img 
-    align ="left"
-    alt = "MySQL"
-    title = "MySQL"
-    width = "30px"
-    style = "padding-right : 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+### 🧭 Current Focus
 
-<br/>
-<br/>         
+- 🌐 Network automation labs with Python, Netmiko, and Nornir  
+- 🔐 Security fundamentals & Fortinet FCP Certification  
+- ⚙️ Building tools that merge CLI and API workflows  
 
-### 📊 Statistics
+---
 
-<img 
-    align ="left"
-    alt = "GitHub Stats"
-    height = "140px"
-    style = "padding-right : 10px"
-    src="https://github-readme-stats.vercel.app/api?username=dayronjp&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true"
-    />         
-
-<img 
-    align ="left"
-    alt = "GitHub Stats"
-    height = "140px"
-    style = "padding-right : 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayronjp&theme=tokyonight&custom_title=Top%20Languages&layout=compact&langs_count=7"
-    />           
