@@ -1,6 +1,6 @@
 # 🏮 Hello, I'm Dayron Anjos
 
-### 💻 Systems Analysis and Development student | IT Support Analyst | Future Network & Cybersecurity Engineer
+### 💻 Systems Analysis and Development student | IT Support Analyst | Future Software Engineer
 
 I'm passionate about building reliable systems, automating infrastructure, and securing networks. Currently expanding my skillset through Fortinet’s certification track while working on hands-on projects that bridge theory and practice.
 
