@@ -19,6 +19,14 @@ I'm passionate about building reliable systems, automating infrastructure, and s
 
 <img 
   align="left"
+  alt="PHP"
+  title="PHP"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
+<img 
+  align="left"
   alt="JavaScript"
   title="JavaScript"
   width="30px"
@@ -79,9 +87,8 @@ I'm passionate about building reliable systems, automating infrastructure, and s
 
 ### 🧭 Current Focus
 
-- 🌐 Network automation labs with Python, Netmiko, and Nornir  
-- 🔐 Security fundamentals & Fortinet FCP Certification  
-- ⚙️ Building tools that merge CLI and API workflows  
+- 🌐 Network automation with Python, Netmiko, and Nornir  
+- ⚙️ Development of robust and innovative systems
 
 ---
 
