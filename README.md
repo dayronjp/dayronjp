@@ -98,12 +98,6 @@ Currently expanding my expertise through **Fortinet’s certification track**, c
   
 🧩 *“Dream big, debug hard.”*  
 
-<img 
-  src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzMzI3ODAsIm5iZiI6MTc2MTMzMjQ4MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI0VDE5MDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzYjE3Y2M1N2E2YzFlZGMxZDFhNTNiMWZiYzA5YWRjMmQyYjkyNWU4MDE2ODE0ZTJlMGY1ZjM0ODRkZmIxNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.djfhRAnDbuL2yAKoj0k4kjxgTAhHb9Q7WOhypvN0kMY" 
-  width="50%" 
-  alt="Final animation"
-/>
-
 </div>
 
 ---
