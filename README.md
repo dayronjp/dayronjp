@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🏮 Dayron Anjos — Systems Analyst & Aspiring Software Engineer
+# 🏮 Dayron Anjos — Systems Development & Aspiring Software Engineer
 
 **Security · Automation · Scalable Systems**
 
