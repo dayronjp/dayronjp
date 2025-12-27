@@ -51,30 +51,6 @@ Currently expanding my expertise through **Fortinet’s certification track**, c
 
 </div>
 
----
-
-### 📊 GitHub Insights
-
-<div align="center">
-
-<img
-  height="160px"
-  src="https://github-readme-stats.vercel.app/api?username=dayronjp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-<img
-  height="160px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayronjp&layout=compact&theme=tokyonight&langs_count=8"
-/>
-
-<br />
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=dayronjp&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
 
 ### 🧭 Current Focus
 
