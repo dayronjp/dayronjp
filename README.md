@@ -47,7 +47,7 @@ I design and implement resilient systems that balance performance, security and 
 
 **Security & Certifications / セキュリティ・資格**
 
-* Fortinet: FCA (certified), FCF (course completed), FCP (in progress)
+* Fortinet: FCA (certified)
 * Fundamentals of secure system configuration and monitoring
 
 **Language proficiency / 言語**
