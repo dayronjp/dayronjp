@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91dDd4anMxbjNqdWp2cnJkdGFpZDBlaDgyNWNsOHMxc2U0Y2VwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"
-    width="720"
+    width="520"
     alt="Dev coding animation"
   />
 </div>
