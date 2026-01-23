@@ -30,7 +30,6 @@ class DayronAnjos:
     def __init__(self):
         self.role = "IT Support Analyst → Software Engineer"
         self.education = "Systems Analysis & Development"
-        self.location = "São Paulo, BR"
         self.current_focus = [
             "Backend development with Python and PHP",
             "Automation and tooling using Python and JavaScript",
