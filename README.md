@@ -2,12 +2,15 @@
   <a href="https://yuki-tech.vercel.app/en">
     <img
       src="./assets/yuki-tech-logo.png"
-      width="180"
+      width="200"
       alt="Yuki Tech"
     />
   </a>
 
-  <h1>Dayron Anjos</h1>
+  <br />
+  <br />
+
+  <h3>Dayron Anjos</h3>
 
   <p>
     <strong>Full-Stack Engineer with an Infrastructure Mindset</strong>
