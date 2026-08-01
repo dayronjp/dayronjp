@@ -383,6 +383,13 @@ currently_building:
 
 ## `./github-analytics`
 
+<div align="center">
+  <img
+    height="180"
+    src="./profile/top-langs.svg"
+    alt="Most used languages"
+  />
+</div>
 
 <br />
 
