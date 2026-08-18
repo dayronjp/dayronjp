@@ -443,10 +443,63 @@ It became the operational context behind the software I build.
 - **Bachelor’s Degree in Software Engineering** — in progress
 - **Technical Program in Systems Development** — completed
 
-### Certifications and Courses
+### Certifications
 
-- Fortinet Certified Fundamentals — FCF
-- Fortinet Certified Associate — FCA
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/c01bf969-a8f2-443c-afd7-c04599b5dece/public_url">
+        <kbd>
+          <img
+            src="./assets/certifications/nse-1-cybersecurity.svg"
+            width="128"
+            alt="Fortinet NSE 1 Certified in Cybersecurity"
+          />
+        </kbd>
+      </a>
+      <br />
+      <br />
+      <strong>NSE 1 — Cybersecurity</strong>
+      <br />
+      <sub>Fortinet · Verified on Credly</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/5db9cccd-75da-4118-8288-ee7d7603f20f/public_url">
+        <kbd>
+          <img
+            src="./assets/certifications/nse-2-cybersecurity.svg"
+            width="128"
+            alt="Fortinet NSE 2 Certified in Cybersecurity"
+          />
+        </kbd>
+      </a>
+      <br />
+      <br />
+      <strong>NSE 2 — Cybersecurity</strong>
+      <br />
+      <sub>Fortinet · Verified on Credly</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/15585fba-2e0d-487c-8432-f504c2715881/public_url">
+        <kbd>
+          <img
+            src="./assets/certifications/nse-3-cybersecurity.svg"
+            width="128"
+            alt="Fortinet NSE 3 Certified in Cybersecurity"
+          />
+        </kbd>
+      </a>
+      <br />
+      <br />
+      <strong>NSE 3 — Cybersecurity</strong>
+      <br />
+      <sub>Fortinet · Verified on Credly</sub>
+    </td>
+  </tr>
+</table>
+
+### Courses
+
 - LFS101: Introduction to Linux — The Linux Foundation
 - Java Development — FIAP
 - Relational Database Modeling
