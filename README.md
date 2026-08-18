@@ -449,13 +449,11 @@ It became the operational context behind the software I build.
   <tr>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/c01bf969-a8f2-443c-afd7-c04599b5dece/public_url">
-        <kbd>
           <img
             src="./assets/certifications/nse-1-cybersecurity.svg"
-            width="128"
+            width="132"
             alt="Fortinet NSE 1 Certified in Cybersecurity"
           />
-        </kbd>
       </a>
       <br />
       <br />
@@ -465,13 +463,11 @@ It became the operational context behind the software I build.
     </td>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/5db9cccd-75da-4118-8288-ee7d7603f20f/public_url">
-        <kbd>
           <img
             src="./assets/certifications/nse-2-cybersecurity.svg"
-            width="128"
+            width="132"
             alt="Fortinet NSE 2 Certified in Cybersecurity"
           />
-        </kbd>
       </a>
       <br />
       <br />
@@ -481,13 +477,11 @@ It became the operational context behind the software I build.
     </td>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/15585fba-2e0d-487c-8432-f504c2715881/public_url">
-        <kbd>
           <img
             src="./assets/certifications/nse-3-cybersecurity.svg"
-            width="128"
+            width="132"
             alt="Fortinet NSE 3 Certified in Cybersecurity"
           />
-        </kbd>
       </a>
       <br />
       <br />
